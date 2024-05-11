@@ -8,11 +8,13 @@ menu:
 
 # Knihy
 
+### Online
+
 <a href="/knihy/dobre-otazky-dobre-odpovedi.html">Dobré otázky, dobré odpovědi - Shravasti Dhammika</a><br>
 
-<br><br><br>
+### Google disk
 
-Další knihy a texty jsou k dispozici na našem Google Disku.<br><br><br>
+Další knihy a texty jsou k dispozici na našem Google Disku.<br><br>
 
 <a
 id="stahnout-panditu"
