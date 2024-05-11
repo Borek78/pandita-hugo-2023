@@ -23,7 +23,7 @@ Máme stále k dispozici několik titulů, které byly vydány pro distribuci zd
 
 Knihy posíláme ze Slovenska, a tak je tato služba zcela zdarma pouze pro slovenské čtenáře. Českým čtenářům knihy pošleme poté, co se s nimi domluvíme na úhradě poštovného.<br><br>
 
-Před tím, než vám knížky pošleme, můžete se podívat na jejich elektronickou verzi. Většinu z nich máme na našem google disku ve složce <a href="https://drive.google.com/drive/u/0/folders/1kcJlD7SzhPEEIxY2xD_4FIorSUs7EsLR">DHARMAZDARMA.CZ</a> Na našem google disku nenajdete pouze poslední knihu v seznamu: Cestičky divokými hmlami hory Ilúzie (Abhidhamma).<br><br>
+Před tím, než vám knížky pošleme, můžete se podívat na jejich elektronickou verzi. Většinu z nich máme na našem google disku ve složce <a href="https://drive.google.com/drive/u/0/folders/1kcJlD7SzhPEEIxY2xD_4FIorSUs7EsLR">DHARMAZDARMA.CZ</a>. Na našem google disku nenajdete pouze poslední knihu v seznamu: Cestičky divokými hmlami hory Ilúzie (Abhidhamma).<br><br>
 
 Štyri ochranné meditácie; Bhante Sujíva<br>
 Dobré otázky, dobré odpovědi; Shravasti Dhammika<br>
